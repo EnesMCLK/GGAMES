@@ -1,4 +1,4 @@
-#OYUNLAR HAKKINDA BİLGİLENDİRME
+OYUNLAR HAKKINDA BİLGİLENDİRME
 
 Kitaplık HTML5 ve flash oyunlardan oluşur. Flash(swfs) oyunlar Ruffle ile dönüşüm yapılarak çalışır.
 
